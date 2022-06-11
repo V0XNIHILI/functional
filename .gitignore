@@ -1,0 +1,11 @@
+# Editors
+
+.vscode
+
+# Binaries
+
+a.out
+
+# macOS
+
+*.dSYM
